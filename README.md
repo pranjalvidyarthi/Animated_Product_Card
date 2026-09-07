@@ -24,7 +24,7 @@ The project focuses on creating a visually appealing product-card UI with smooth
 ## 🖼️ Preview
 
 <p align="center">
-  <video src="preview.gif" width="700" alt="Animated Product Card">
+  <img src="preview.gif" width="700" alt="Animated Product Card">
 </p>
 
 <p align="center">
